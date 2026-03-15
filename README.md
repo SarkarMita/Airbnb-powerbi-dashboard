@@ -74,11 +74,6 @@ guest ratings, and review behaviour.
 ## ⬇️ Download Power BI File
 👉 [Click here to download the Power BI Dashboard](https://github.com/SarkarMita/Airbnb-powerbi-dashboard/blob/main/Airbnb%20Project.pbit)
 
----
-
-## 📂 Dataset
-Due to file size, the dataset is hosted separately.
-[Download Dataset](paste your Google Drive or Kaggle link here)
 
 ---
 

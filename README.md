@@ -77,13 +77,6 @@ guest ratings, and review behaviour.
 
 ---
 
-## 🚀 How to Use
-1. Download `Airbnb_Project.pbit` using the link above
-2. Open in **Power BI Desktop** (free download from Microsoft)
-3. Connect your own Airbnb dataset when prompted
-
----
-
 ## 👩‍💻 Author
 **Mita Sarkar** — Data Analyst | MBA
 
